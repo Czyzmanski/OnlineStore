@@ -32,7 +32,6 @@ public class MenuClockTask extends Task<Void> {
 				}
 			}
 		}
-
 		return null;
 	}
 
